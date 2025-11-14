@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+box-sizing: border-box;
+}
+.Service{
+  text-align: center;
+    float:left;
+  width: 30%;
+  margin: 20px;
+}
+.Services{
+    text-align: center;
+  margin-top: 30px;
+text-align: center;
+}
+i{
+  margin: 20px;
+  padding: 22px;
+  box-sizing: content-box;
+  background-color: gold;
+  color: white;
+}
+.clear{
+  clear: both;
+}
